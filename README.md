@@ -1,9 +1,4 @@
 # PRODIGY_ML_02
-
-Certainly! Below is an example of a README file you can include in your GitHub repository to provide information about the K-means clustering algorithm for customer segmentation:
-
----
-
 # Customer Segmentation using K-means Clustering
 
 ## Overview
