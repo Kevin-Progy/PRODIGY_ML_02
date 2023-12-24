@@ -20,12 +20,6 @@ The dataset used for this project is available on Kaggle: [Customer Segmentation
 - Jupyter Notebook (optional for running the provided example in a notebook)
 - Dependencies: pandas, numpy, matplotlib, scikit-learn
 
-Install the required dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Download the dataset from Kaggle and place it in the project directory.
