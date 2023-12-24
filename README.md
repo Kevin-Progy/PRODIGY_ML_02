@@ -34,10 +34,6 @@ The dataset used for this project is available on Kaggle: [Customer Segmentation
 
 The algorithm will determine clusters of customers based on their annual income and spending score. The results will be visualized, showing the clusters and centroids.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project is based on the tutorial dataset provided by V. J. Choudhary on Kaggle.
